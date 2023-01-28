@@ -6,7 +6,7 @@
     Modelo do projeto
 </h3>
 
-<img src="./Modelagem do curso.PNG" alt="">
+![Modelagem do curso](https://user-images.githubusercontent.com/114101613/215288235-b133a73b-674a-44d7-8066-dd22532dced3.PNG)
 
 
 <h2>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
