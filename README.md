@@ -9,8 +9,9 @@
 ![Modelagem do curso](https://user-images.githubusercontent.com/114101613/215288235-b133a73b-674a-44d7-8066-dd22532dced3.PNG)
 
 
-<h2>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
+<h1>Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
     e responder algumas perguntas com nosso modelo:
+    
     ⇨ Existem outras entidades além dessas três?
     
     Sim.  Professor
@@ -29,7 +30,7 @@
     ⇨ Como essas entidades estão relacionadas?
     
     O professor dá aula no curso, que possui turmas e contém alunos
-</h2>
+</h1>
 
 <h3>
     O que foi utilizado para fazer o projeto:
