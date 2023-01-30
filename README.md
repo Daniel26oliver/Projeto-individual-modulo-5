@@ -41,6 +41,4 @@
     BrModelo web
 </ul>
 
-<ul>
-    Xampp 
-</ul>
+
