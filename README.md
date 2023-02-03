@@ -13,7 +13,7 @@
     e responder algumas perguntas com nosso modelo:
     
    
-    ⇨ Existem outras entidades além dessas três?
+    Existem outras entidades além dessas três?
     
     Sim.  Professor
     
